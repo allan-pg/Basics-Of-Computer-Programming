@@ -23,7 +23,7 @@ These devices are called **Input Devices** and the information provided is calle
 
 #### **Computer Storage or Memory is of Two Types.**
 
-- Primary Memory or RAM (Random Access Memory): This is the internal storage that is used in the computers and is located on the motherboard. RAM can be accessed or modified quickly in any order or randomly. The information that is stored in RAM is lost when the computer is turned off.
+- Primary Memory or RAM (Random Access Memory): This is the internal storage that is used in the computers and is located on the motherboard. RAM can be accessed or modified quickly in any order or randomly. The information that is stored in RAM is lost when the computer is turned off. Ram provides temporary storage for te operating system(OS).
 
 - Secondary Memory or ROM (Read-Only Memory): Information (data) stored in ROM is read-only, and is stored permanently. The ROM stored instruction is required to start a computer.
 
@@ -49,7 +49,7 @@ Developers should have essential knowledge on the following concepts to become s
 
 - **Algorithm:** It is a set of steps or instruction statements to be followed to accomplish specific tasks. A developer can design his algorithm to achieve the desired output. For Example, a recipe to cook a dessert. The algorithm describes the steps to be followed for completing a specific task, but it does not say how to achieve any of the steps.
 
-- **Source code:** Source code is the actual text that is used to construct the program using the language of choice.
+- **Source code:** Source code is the actual text that is used to construct the program using the language of choice. Source code is programming statements that are created by a programmer with a text editor or a visual programming tool and then saved in a file.
 
 ```python
 # Define a function `plus()`
@@ -161,7 +161,7 @@ Similarly, consider the below points before learning computer programming.
 - Learn Data Structures and Algorithms.
 - Make a project using a selected programming language.
 - Attempt some certification, and this will make you more confident, knowledgeable and competent.
-- 
+- Be consistent in your learning journey. 
 --- 
 
 #### **Where Can We Apply The Skills Of Programming?**
