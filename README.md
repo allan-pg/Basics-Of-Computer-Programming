@@ -174,7 +174,7 @@ Working in a team at times can result in conflict, due to attitude issues. Hence
 
 --- 
 
-#### **Career Options For Programmers**
+#### **Career Option For Programmers**
 
 ---
 The career options as a programmer or software developer are many.
